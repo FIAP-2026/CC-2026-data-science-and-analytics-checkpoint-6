@@ -1,1 +1,8 @@
-# CC-2026-data-science-and-analytics-checkpoint-6
+﻿# Data Science and Analytics
+
+**Ciclo:** checkpoint-6  
+**Semestre:** semestre:s4  
+**Ano:** 2026  
+
+> Repositorio publico criado para a disciplina **Data Science and Analytics** no contexto do ciclo **checkpoint-6** (FIAP 2026).
+
